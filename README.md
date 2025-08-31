@@ -1,0 +1,2 @@
+# DESIGN-AND-VERIFICATION-OF-SINGLE-PORT-RAM
+Designed a single port ram
